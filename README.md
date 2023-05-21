@@ -94,12 +94,6 @@ In this phase, various classifiers are used in order to check the best classifie
 + Support Vector Machine (SVM)
 + Convolution Neural Network (CNN)
 
-#### Accuracy Plot
-The accuracy rate of different classifiers obtained are shown below:
-<p align="center">
-  <br>
-<img align="center" src="https://github.com/shag527/Indian-Sign-Language-Recognition/blob/master/Images/acc.png">
- </p>
 
 ### Output
 The predicted labels are shown in the form of text as well as speech using the python text to speech conversion library, Pyttsx3.
